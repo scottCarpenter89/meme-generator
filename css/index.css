@@ -1,3 +1,12 @@
-body {
-    background-color: rgba(52, 52, 52, 0.583);
+
+#meme-form-container {
+    background-color: rgba(211, 211, 211, 0.24);
+}
+form {
+    font-size: 32pt;
+    padding: 3rem;
+}
+.navbar-brand {
+    color: #FFF;
+    font-size: 48pt;
 }
